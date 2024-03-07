@@ -10,11 +10,17 @@ Algorithm
 Program:
 
 1.To implement the linear regression using the standard libraries in the python.
+
 2.Use slicing function() for the x,y values.
+
 3.Using sklearn library import training , testing and linear regression modules.
+
 4.Predict the value for the y.
+
 5.Using matplotlib library plot the graphs.
+
 6.Use xlabel for hours and ylabel for scores.
+
 7.End the porgram.
 /*
 
